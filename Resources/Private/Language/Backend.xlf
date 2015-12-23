@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2011-10-17T20:22:33Z" product-name="t3starterkit">
+		<header/>
+		<body>
+			<trans-unit id="backend_layout.default">
+				<source>Default</source>
+			</trans-unit>
+			<trans-unit id="backend_layout.sidebar">
+				<source>With sidebar</source>
+			</trans-unit>
+			<trans-unit id="backend_layout.column.main">
+				<source>Main</source>
+			</trans-unit>
+			<trans-unit id="backend_layout.column.sidebar">
+				<source>Sidebar</source>
+			</trans-unit>
+			<trans-unit id="rte.class.text-left">
+				<source>Text: Left</source>
+			</trans-unit>
+			<trans-unit id="rte.class.text-right">
+				<source>Text: Right</source>
+			</trans-unit>
+			<trans-unit id="rte.class.text-center">
+				<source>Text: Center</source>
+			</trans-unit>
+			<trans-unit id="rte.class.text-justify">
+				<source>Text: Justify</source>
+			</trans-unit>
+			<trans-unit id="rte.class.list-unstyled">
+				<source>Lists: Unstyled</source>
+			</trans-unit>
+			<trans-unit id="rte.class.list-inline">
+				<source>Lists: Inline</source>
+			</trans-unit>
+			<trans-unit id="rte.class.btn">
+				<source>Buttons: Base</source>
+			</trans-unit>
+			<trans-unit id="rte.class.btn-default">
+				<source>Buttons: Default</source>
+			</trans-unit>
+			<trans-unit id="tt_content.bullets.layout.unordered">
+				<source>Unordered</source>
+			</trans-unit>
+			<trans-unit id="tt_content.bullets.layout.ordered">
+				<source>Ordered</source>
+			</trans-unit>
+			<trans-unit id="tt_content.bullets.layout.unstyled">
+				<source>Unstyled</source>
+			</trans-unit>
+			<trans-unit id="tt_content.bullets.layout.inline">
+				<source>Inline</source>
+			</trans-unit>
+			<trans-unit id="tt_content.table.layout.basic">
+				<source>Basic</source>
+			</trans-unit>
+			<trans-unit id="tt_content.table.layout.striped">
+				<source>Striped rows</source>
+			</trans-unit>
+			<trans-unit id="tt_content.table.layout.bordered">
+				<source>Bordered</source>
+			</trans-unit>
+			<trans-unit id="tt_content.table.layout.hover">
+				<source>Hover rows</source>
+			</trans-unit>
+			<trans-unit id="tt_content.table.layout.condensed">
+				<source>Condensed</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

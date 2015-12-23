@@ -1,0 +1,20 @@
+{
+  "name": "typo3-starter-template",
+  "version": "0.0.1",
+  "authors": [
+    "Marco Malagoli <malagolim@gmail.com>"
+  ],
+  "description": "Based extension providing a set of configuration and template",
+  "license": "GPL-2.0+",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass-official": "~3.3.5",
+    "fontawesome": "~4.3.0"
+  }
+}

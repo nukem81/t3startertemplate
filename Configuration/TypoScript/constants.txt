@@ -1,0 +1,43 @@
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:css_styled_content/static/constants.txt">
+
+// PAGE
+t3startertemplate {
+	template {
+		# cat=starter template: advanced/100/100; type=string; label=Layout Root Path: Path to layouts
+		layoutRootPath = EXT:t3startertemplate/Resources/Private/Layouts/Page/
+		# cat=starter template: advanced/100/110; type=string; label=Partial Root Path: Path to partials
+		partialRootPath = EXT:t3startertemplate/Resources/Private/Partials/Page/
+		# cat=starter template: advanced/100/120; type=string; label=Template Root Path: Path to templates
+		templateRootPath = EXT:t3startertemplate/Resources/Private/Templates/Page/
+		# cat=starter template: advanced/100/130; type=string; label=Header Root Path: Path to templates
+		headerRootPath = EXT:t3startertemplate/Resources/Private/Templates/Header/
+	}
+
+	meta {
+		# cat=starter template: basic/110/100; type=string; label=Description: Enter a short description of the page. It will be displayed in the result lists of most search engines.
+		description =
+		# cat=starter template: basic/110/110; type=string; label=Author: Enter the page author's name.
+		author =
+		# cat=starter template: basic/110/120; type=string; label=Keywords: Enter keywords for the page separated by commas. You may also use short phrases.
+		keywords =
+		# cat=starter template: advanced/110/130; type=string; label=viewport
+		viewport = width=device-width, initial-scale=1
+		# cat=starter template: advanced/110/140; type=string; label=robots
+		robots = index,follow
+		# cat=starter template: advanced/110/150; type=string; label=apple-mobile-web-app-capable
+		apple-mobile-web-app-capable = no
+		# cat=starter template: advanced/110/160; type=string; label=compatible
+		compatible = IE=edge
+		# cat=starter template: advanced/110/170; type=string; label=google
+		google = notranslate
+	}
+
+	tracking {
+		google {
+			# cat=starter template: basic/120/100; type=string; label=Google: Tracking-ID
+			trackingID =
+			# cat=starter template: basic/120/110; type=boolean; label=Google: IP-anonymisation
+			anonymizeIp = 1
+		}
+	}
+}
