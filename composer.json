@@ -1,0 +1,12 @@
+{
+    "name": "mmalagoli/t3startertemplate",
+    "description": "TYPO3 CMS based extension providing a set of configuration and template",
+    "license": "GPL-2.0+",
+    "authors": [
+        {
+            "name": "Marco Malagoli",
+            "email": "malagolim@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
