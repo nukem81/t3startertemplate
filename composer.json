@@ -1,6 +1,7 @@
 {
     "name": "mmalagoli/t3startertemplate",
     "description": "TYPO3 CMS based extension providing a set of configuration and template",
+    "type": "typo3-cms-extension",
     "license": "GPL-2.0+",
     "authors": [
         {
