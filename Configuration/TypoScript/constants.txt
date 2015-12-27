@@ -2,7 +2,7 @@
 
 // PAGE
 t3startertemplate {
-	template {
+	fluidtemplate {
 		# cat=starter template: advanced/100/100; type=string; label=Layout Root Path: Path to layouts
 		layoutRootPath = EXT:t3startertemplate/Resources/Private/Layouts/Page/
 		# cat=starter template: advanced/100/110; type=string; label=Partial Root Path: Path to partials
