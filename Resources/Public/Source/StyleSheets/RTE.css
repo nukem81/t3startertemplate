@@ -1,0 +1,35 @@
+@import "../../Build/StyleSheets/styles.css";
+
+.htmlarea-content-body {
+    background: #fff;
+}
+
+ul.list-unstyled {
+}
+
+ul.list-inline {
+}
+
+ol.list-unstyled {
+}
+
+ol.list-inline {
+}
+
+p.text-left {
+}
+
+p.text-center {
+}
+
+p.text-right {
+}
+
+p.text-justify {
+}
+
+a.btn {
+}
+
+a.btn-default {
+}

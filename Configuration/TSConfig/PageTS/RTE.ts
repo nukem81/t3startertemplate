@@ -34,7 +34,7 @@ RTE.classes {
 // RTE basics
 RTE.default {
 
-	contentCSS = typo3conf/ext/t3startertemplate/Resources/Public/Build/StyleSheets/styles.css
+	contentCSS = typo3conf/ext/t3startertemplate/Resources/Public/Source/StyleSheets/RTE.css
 
 	schema.sources {
 		schemaOrg = EXT:rtehtmlarea/extensions/MicrodataSchema/res/schemaOrgAll.rdf
