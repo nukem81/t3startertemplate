@@ -66,6 +66,36 @@
 			<trans-unit id="tt_content.table.layout.condensed">
 				<source>Condensed</source>
 			</trans-unit>
+			<trans-unit id="gridelements.1.title">
+				<source>Two columns container</source>
+			</trans-unit>
+			<trans-unit id="gridelements.1.description">
+				<source>Two columns content disposition</source>
+			</trans-unit>			
+			<trans-unit id="gridelements.1.leftColumn">
+				<source>Left column</source>
+			</trans-unit>
+			<trans-unit id="gridelements.1.rightColumn">
+				<source>Right column</source>
+			</trans-unit>
+			<trans-unit id="gridelements.1.gridType">
+				<source>Grid type</source>
+			</trans-unit>
+			<trans-unit id="gridelements.1.gridType.1-1">
+				<source>50% - 50%</source>
+			</trans-unit>
+			<trans-unit id="gridelements.1.gridType.1-2">
+				<source>33% - 66%</source>
+			</trans-unit>
+			<trans-unit id="gridelements.1.gridType.2-1">
+				<source>66% - 33%</source>
+			</trans-unit>
+			<trans-unit id="gridelements.1.gridType.1-3">
+				<source>25% - 75%</source>
+			</trans-unit>
+			<trans-unit id="gridelements.1.gridType.3-1">
+				<source>75% - 25%</source>
+			</trans-unit>			
 		</body>
 	</file>
 </xliff>
