@@ -2,10 +2,12 @@
 
 Based extension providing a set of configuration and template.
 
-## Installation and usage
+## Features
 
-1. Clone this repo into the TYPO3 extension directory (typo3conf/ext/).
-2. Install the extension and include the TypoScript.
+- Basic TypoScript page configuration
+- Realurl configuration file
+- Two columns container (EXT:gridelements)
+- RTE configuration
 
 ## Compiling assets
 
